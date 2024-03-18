@@ -1,0 +1,3 @@
+eEzmzhk8NTQEuI4nLzMgnvjv43kXLUXICJ0jcti1H0pwGdJJeY9oOL_T53Dh9l25
+
+https://devapi.qweather.com/v7/weather/now?location=101010100&key=b3e6b2c20c634b51bf3cce83e2697241
